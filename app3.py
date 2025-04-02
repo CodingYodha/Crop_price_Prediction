@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 from prophet.plot import plot_plotly # Optional for Prophet's default plots
 
 # --- Configuration ---
-DATA_PATH = r"E:\elevatetrsest\dataset\price_wheat_daily.csv" # Use the correct path to your CSV
+DATA_PATH = "price_wheat_daily.csv" # Use the correct path to your CSV
 TARGET_COLUMNS = ['avg_min_price', 'avg_max_price', 'avg_modal_price']
 DATE_COLUMN = 'date'
 MIN_DATA_POINTS = 30 # Minimum data points required to train a model
