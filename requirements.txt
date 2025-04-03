@@ -3,3 +3,4 @@ pandas
 prophet 
 plotly 
 openpyxl
+scikit-learn
