@@ -7,9 +7,9 @@ tensorflow>=2.10.0
 joblib>=1.1.0
 plotly>=5.5.0
 streamlit>=1.15.0
-pickle
+
 matplotlib
 seaborn
-tensorflow==2.15.0  
+prophet
 h5py>=3.1.0
 ml_dtypes 
