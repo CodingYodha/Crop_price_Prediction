@@ -1,6 +1,10 @@
-streamlit
-pandas
-prophet 
-plotly 
 openpyxl
 scikit-learn
+pandas>=1.4.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+tensorflow>=2.10.0 
+joblib>=1.1.0
+plotly>=5.5.0
+streamlit>=1.15.0
+h5py>=3.1.0
