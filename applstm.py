@@ -10,7 +10,7 @@ import os
 
 # --- Configuration ---
 # Paths where you SAVED the models, scalers, and sequences (adjust if needed)
-MODEL_DIR = "E:\elevatetrsest\crop price predictor\Crop_price_Prediction\saved_lstm_models"
+MODEL_DIR = "saved_lstm_models"
 TARGET_COLUMNS = ['avg_min_price', 'avg_max_price', 'avg_modal_price']
 SEQUENCE_LENGTH = 60 # MUST match the sequence length used during training
 PREDICTION_START_DATE_STR = "2024-01-01" # Approx end of training data + 1 day
