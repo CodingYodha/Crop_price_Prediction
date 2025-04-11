@@ -10,4 +10,5 @@ streamlit>=1.15.0
 pickle
 matplotlib
 seaborn
-
+tensorflow==2.15.0  
+h5py>=3.1.0
