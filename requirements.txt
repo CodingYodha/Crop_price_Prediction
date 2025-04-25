@@ -1,13 +1,4 @@
-openpyxl
-scikit-learn
-pandas>=1.4.0
-numpy>=1.21.0
-scikit-learn>=1.0.0
-joblib>=1.1.0
-plotly>=5.5.0
-streamlit>=1.15.0
-pickle
-matplotlib
-seaborn
+streamlit
+pandas
 prophet
-ml_dtypes 
+plotly
